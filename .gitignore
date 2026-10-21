@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.Rproj.user/
+.RData
+.Rhistory
+data/
+*:Zone.Identifier
